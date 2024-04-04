@@ -1,0 +1,1 @@
+ doc("BD_BailesDeSalon.xml")//Bailes/baile[precio/@cuota="mensual"]/profesor

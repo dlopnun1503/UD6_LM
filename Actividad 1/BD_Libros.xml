@@ -106,8 +106,8 @@
 <libro>
     <Cod_Libro>7</Cod_Libro>
     <Titulo>Las viudas de Eastwick</Titulo>
-    <Editorial>1</Editorial>
-    <Edicion>Tusquets Editores</Edicion>
+    <Editorial>Tusquets Editores</Editorial>
+    <Edicion>1</Edicion>
     <ISBN>9788483833209</ISBN>
     <NumPaginas>400</NumPaginas>
     <Autores>

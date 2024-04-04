@@ -1,0 +1,24 @@
+<html>
+    <body>
+        <h1> Libros Largos </h1>
+        <table border="1">
+            <tr>
+                <th>Titulo</th>
+                <th>Codigo del Libro</th>
+                <th>Numero de  paginas</th>
+             </tr>
+{
+for $libro in doc("BD_Libros.xml")//Libros/libro
+let $Titulo:=$libro/Titulo
+let $Cod_Libro:=$libro/Cod_Libro
+let $NumPaginas:=$libro/NumPaginas
+return
+<tr>
+<td>{data($Titulo)}</td>
+<td>{data($Cod_Libro)}</td>
+<td>{data($NumPaginas)}</td>
+</tr>
+}
+ </table>
+    </body>
+</html>

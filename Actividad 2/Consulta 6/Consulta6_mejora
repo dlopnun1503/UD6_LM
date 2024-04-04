@@ -1,0 +1,19 @@
+insert node
+<libro>
+<Cod_Libro>11</Cod_Libro>
+<Titulo>La Celestina</Titulo>
+<Editorial>Juan de la Cuesta</Editorial>
+<Edicion>3</Edicion>
+<ISBN>9788465545840</ISBN>
+<NumPaginas>122</NumPaginas>
+<Autores>
+<autor>
+<Cod_Autor>11</Cod_Autor>
+<Nombre>Miguel</Nombre>
+<Apellidos>de Cervantes Saavedra</Apellidos>
+<FechaNacimiento>29/09/1547</FechaNacimiento>
+<Nacionalidad>España</Nacionalidad>
+</autor>
+</Autores>
+</libro>
+after doc("BD_Libros.xml")//Libros/libr[1]

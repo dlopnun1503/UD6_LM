@@ -1,0 +1,11 @@
+12:12:52.362  INFO  [LibraryManager] ---- group creation in C:\Users\dlopnun1503\Desktop\Lenguaje de marcas\Unidad 6\GrupoLibreriasXML
+12:12:52.362  INFO  [LibraryManager]  100
+13:30:44.934  INFO  [LibraryManager] shutdown begins
+13:30:44.936  INFO  [LibraryManager]  closed library BD_BailesDeSalon
+13:30:44.936  INFO  [LibraryManager] shutdown complete.
+13:32:44.576  INFO  [LibraryManager] ---- starting up ----
+13:32:44.576  INFO  [LibraryManager]  100
+13:32:44.644  INFO  [LibraryManager] Library group ready
+13:58:20.581  INFO  [LibraryManager] shutdown begins
+13:58:20.585  INFO  [LibraryManager]  closed library BD_BailesDeSalon
+13:58:20.585  INFO  [LibraryManager] shutdown complete.
