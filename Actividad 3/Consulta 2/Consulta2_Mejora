@@ -1,0 +1,3 @@
+for $baile in doc("BD_BailesDeSalon.xml")//Bailes/baile
+where $baile/plazas > 10
+return $baile 

@@ -1,1 +1,0 @@
-doc("BD_Libros.xml")//Libros/libro[NumPaginas > 500]

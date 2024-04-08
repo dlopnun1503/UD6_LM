@@ -1,0 +1,2 @@
+for $baile in doc("BD_BailesDeSalon.xml")//Bailes/baile
+return $baile 
