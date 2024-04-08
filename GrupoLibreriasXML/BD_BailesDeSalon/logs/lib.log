@@ -10,3 +10,6 @@
 11:16:12.084  INFO  [lib BD_BailesDeSalon] All sessions closed
 11:16:12.087  INFO  [lib BD_BailesDeSalon] Sweeper stopped
 11:16:12.088  INFO  [lib BD_BailesDeSalon] library closed 
+12:03:27.204  INFO  [lib BD_BailesDeSalon] Library opened by Qizx 4.4p1
+12:03:27.205  INFO  [lib BD_BailesDeSalon]  location C:\Users\dlopnun1503\Desktop\Lenguaje de marcas\Unidad 6\GrupoLibreriasXML\BD_BailesDeSalon
+12:03:27.205  INFO  [lib BD_BailesDeSalon]  document storage version=5, lastBId=81, BCount=48, maxA=502
