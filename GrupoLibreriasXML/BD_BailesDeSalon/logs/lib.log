@@ -1,15 +1,48 @@
-10:56:33.974  INFO  [lib BD_BailesDeSalon] Library opened by Qizx 4.4p1
-10:56:33.976  INFO  [lib BD_BailesDeSalon]  location C:\Users\dlopnun1503\Desktop\Lenguaje de marcas\Unidad 6\GrupoLibreriasXML\BD_BailesDeSalon
-10:56:33.976  INFO  [lib BD_BailesDeSalon]  document storage version=5, lastBId=77, BCount=46, maxA=502
-10:57:01.606  INFO  [lib BD_BailesDeSalon] commit start BD_BailesDeSalon (session 1)
-10:57:01.679  INFO  [lib BD_BailesDeSalon] commit 16 on BD_BailesDeSalon (session 1)
-10:57:01.699  INFO  [lib BD_BailesDeSalon] commit 16 done
-10:57:01.699  INFO  [lib BD_BailesDeSalon] commit end BD_BailesDeSalon (session 1) -> state: [ 1 2 3 4 5 6 7 8 9 a b c d e ][ b c d e f 10 11 ]
-10:57:01.700  INFO  [lib BD_BailesDeSalon] sweeper deleted 1/1 docs: 74 in ms 0.4558
-10:57:01.701  INFO  [lib BD_BailesDeSalon] sweeper deleted 1/1 metadocs: 75
-11:16:12.084  INFO  [lib BD_BailesDeSalon] All sessions closed
-11:16:12.087  INFO  [lib BD_BailesDeSalon] Sweeper stopped
-11:16:12.088  INFO  [lib BD_BailesDeSalon] library closed 
-12:03:27.204  INFO  [lib BD_BailesDeSalon] Library opened by Qizx 4.4p1
-12:03:27.205  INFO  [lib BD_BailesDeSalon]  location C:\Users\dlopnun1503\Desktop\Lenguaje de marcas\Unidad 6\GrupoLibreriasXML\BD_BailesDeSalon
-12:03:27.205  INFO  [lib BD_BailesDeSalon]  document storage version=5, lastBId=81, BCount=48, maxA=502
+10:36:25.081  INFO  [lib BD_BailesDeSalon] Library opened by Qizx 4.4p1
+10:36:25.084  INFO  [lib BD_BailesDeSalon]  location C:\Users\dlopnun1503\Desktop\LenguajeDeMarcas\Unidad 6\GrupoLibreriasXML\BD_BailesDeSalon
+10:36:25.084  INFO  [lib BD_BailesDeSalon]  document storage version=5, lastBId=81, BCount=48, maxA=502
+10:39:48.976  INFO  [lib BD_BailesDeSalon] commit start BD_BailesDeSalon (session 1)
+10:39:49.047  INFO  [lib BD_BailesDeSalon] commit 17 on BD_BailesDeSalon (session 1)
+10:39:49.065  INFO  [lib BD_BailesDeSalon] commit 17 done
+10:39:49.065  INFO  [lib BD_BailesDeSalon] commit end BD_BailesDeSalon (session 1) -> state: [ 1 2 3 4 5 6 7 8 9 a b c d e f ][ b c d e f 10 11 12 ]
+10:39:49.066  INFO  [lib BD_BailesDeSalon] sweeper deleted 1/1 docs: 78 in ms 0.3761
+10:39:49.067  INFO  [lib BD_BailesDeSalon] sweeper deleted 1/1 metadocs: 79
+10:44:01.133  INFO  [lib BD_BailesDeSalon] commit start BD_BailesDeSalon (session 1)
+10:44:01.147  INFO  [lib BD_BailesDeSalon] commit 18 on BD_BailesDeSalon (session 1)
+10:44:01.162  INFO  [lib BD_BailesDeSalon] commit 18 done
+10:44:01.165  INFO  [lib BD_BailesDeSalon] sweeper deleted 1/1 docs: 82 in ms 2.5854
+10:44:01.165  INFO  [lib BD_BailesDeSalon] sweeper deleted 1/1 metadocs: 83
+10:44:01.167  INFO  [lib BD_BailesDeSalon] commit end BD_BailesDeSalon (session 1) -> state: [ 1 2 3 4 5 6 7 8 9 a b c d e f 10 ][ b c d e f 10 11 12 13 ]
+10:44:01.171  INFO  [lib BD_BailesDeSalon] start auto compaction of 16 D segments to 0011: 0001 0002 0003 0004 0005 0006 0007 0008 0009 000A 000B 000C 000D 000E 000F 0010
+10:44:01.193  INFO  [lib BD_BailesDeSalon] compaction done -> state: [ 11 ][ b c d e f 10 11 12 13 ]
+10:45:28.326  INFO  [lib BD_BailesDeSalon] commit start BD_BailesDeSalon (session 1)
+10:45:28.344  INFO  [lib BD_BailesDeSalon] commit 20 on BD_BailesDeSalon (session 1)
+10:45:28.364  INFO  [lib BD_BailesDeSalon] commit 20 done
+10:45:28.364  INFO  [lib BD_BailesDeSalon] sweeper deleted 1/1 docs: 86 in ms 0.0677
+10:45:28.364  INFO  [lib BD_BailesDeSalon] commit end BD_BailesDeSalon (session 1) -> state: [ 11 12 ][ b c d e f 10 11 12 13 14 ]
+10:45:28.364  INFO  [lib BD_BailesDeSalon] sweeper deleted 1/1 metadocs: 87
+10:45:28.367  INFO  [lib BD_BailesDeSalon] start auto compaction of 10 M segments to 0015: 000B 000C 000D 000E 000F 0010 0011 0012 0013 0014
+10:45:28.374  INFO  [lib BD_BailesDeSalon] compaction done -> state: [ 11 12 ][ 15 ]
+10:45:28.387  INFO  [lib BD_BailesDeSalon] sweeper deleted D segments: 0001 to 0010
+10:47:31.001  INFO  [lib BD_BailesDeSalon] commit start BD_BailesDeSalon (session 1)
+10:47:31.020  INFO  [lib BD_BailesDeSalon] commit 22 on BD_BailesDeSalon (session 1)
+10:47:31.041  INFO  [lib BD_BailesDeSalon] commit 22 done
+10:47:31.042  INFO  [lib BD_BailesDeSalon] sweeper deleted 1/1 docs: 52 in ms 0.0488
+10:47:31.042  INFO  [lib BD_BailesDeSalon] commit end BD_BailesDeSalon (session 1) -> state: [ 11 12 13 ][ 15 16 ]
+10:47:31.042  INFO  [lib BD_BailesDeSalon] sweeper deleted 1/1 metadocs: 53
+10:47:31.049  INFO  [lib BD_BailesDeSalon] sweeper deleted M segments: 000B to 0014
+10:48:51.816  INFO  [lib BD_BailesDeSalon] commit start BD_BailesDeSalon (session 1)
+10:48:51.837  INFO  [lib BD_BailesDeSalon] commit 23 on BD_BailesDeSalon (session 1)
+10:48:51.859  INFO  [lib BD_BailesDeSalon] commit 23 done
+10:48:51.859  INFO  [lib BD_BailesDeSalon] sweeper deleted 1/1 docs: 94 in ms 0.0367
+10:48:51.859  INFO  [lib BD_BailesDeSalon] commit end BD_BailesDeSalon (session 1) -> state: [ 11 12 13 14 ][ 15 16 17 ]
+10:48:51.859  INFO  [lib BD_BailesDeSalon] sweeper deleted 1/1 metadocs: 95
+10:50:03.484  INFO  [lib BD_BailesDeSalon] commit start BD_BailesDeSalon (session 1)
+10:50:03.501  INFO  [lib BD_BailesDeSalon] commit 24 on BD_BailesDeSalon (session 1)
+10:50:03.522  INFO  [lib BD_BailesDeSalon] commit 24 done
+10:50:03.522  INFO  [lib BD_BailesDeSalon] sweeper deleted 1/1 docs: 98 in ms 0.0366
+10:50:03.522  INFO  [lib BD_BailesDeSalon] sweeper deleted 1/1 metadocs: 99
+10:50:03.522  INFO  [lib BD_BailesDeSalon] commit end BD_BailesDeSalon (session 1) -> state: [ 11 12 13 14 15 ][ 15 16 17 18 ]
+10:50:19.167  INFO  [lib BD_BailesDeSalon] All sessions closed
+10:50:19.169  INFO  [lib BD_BailesDeSalon] Sweeper stopped
+10:50:19.171  INFO  [lib BD_BailesDeSalon] library closed 

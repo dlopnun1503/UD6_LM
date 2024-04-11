@@ -1,0 +1,19 @@
+insert node
+<libro>
+<Cod_Libro>12</Cod_Libro>
+<Titulo>Birds of America</Titulo>
+<Editorial>John James</Editorial>
+<Edicion>6</Edicion>
+<ISBN>9788465599840</ISBN>
+<NumPaginas>352</NumPaginas>
+<Autores>
+<autor>
+<Cod_Autor>12</Cod_Autor>
+<Nombre>Johnel</Nombre>
+<Apellidos>James</Apellidos>
+<FechaNacimiento>29/09/1547</FechaNacimiento>
+<Nacionalidad>Mexico</Nacionalidad>
+</autor>
+</Autores>
+</libro>
+after doc("BD_Libros.xml")//Libros/libro[1]

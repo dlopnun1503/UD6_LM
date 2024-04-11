@@ -1,0 +1,11 @@
+insert node
+<baile id="8">
+<nombre>Folclore</nombre>
+<precio cuota="mensual" moneda="dolares">30</precio>
+<plazas>8</plazas>
+<comienzo>1/1/2012</comienzo>
+<fin>31/7/2012</fin>
+<profesor>Maria Perez</profesor>
+<sala>4</sala>
+</baile>
+after doc("BD_BailesDeSalon.xml")//Bailes/baile[1]
